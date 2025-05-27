@@ -1,4 +1,4 @@
-## Hi there 👋
+An experienced economist working in the public sector. Pronouns: he/him/his.
 
 <!--
 **gordon-hopkin-jack/gordon-hopkin-jack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
